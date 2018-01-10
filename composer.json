@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "./composer",
+		    "preferred-install": "dist"
+    },
+    "require": {
+      "monolog/monolog": "~1.8"
+    }
+}
